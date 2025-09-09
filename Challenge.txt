@@ -1,0 +1,7 @@
+Welcome to the CTF Challenge!
+
+The flag is hidden in this text:
+
+Wkh#olqn#lr#lq#wkh#fohvw
+
+Good Luck!
