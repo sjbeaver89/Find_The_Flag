@@ -2,6 +2,6 @@ Welcome to the CTF Challenge!
 
 The flag is hidden in this text:
 
-Wkh#olqn#lr#lq#wkh#fohvw
+aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2luL3NqYmVhdmVy
 
 Good Luck!
